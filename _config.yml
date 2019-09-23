@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: Tarun Kumar
+description: PhD Scholar at CSE Dept., IIT Madras
+github:
+  is_project_page: false
