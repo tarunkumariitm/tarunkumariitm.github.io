@@ -8,8 +8,8 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 
 ### News
-- Won travel grant for CODS-COMAD, 2020
-- Travelling to Lisbon for International Conference for Complex Networks, 2019
+- Won travel grant for [CODS-COMAD, 2020](https://cods-comad.in/)
+- Travelling to Lisbon for [International Conference for Complex Networks, 2019](https://www.complexnetworks.org/)
 - Best presentation award for our work on Hypergraph clustering in [4th IBSE workshop](https://ibse-iitm.github.io/news/IBSE-workshop-04)
 
 
