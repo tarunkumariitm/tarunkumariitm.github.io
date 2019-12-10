@@ -1,11 +1,11 @@
 ## Welcome
 I am a Ph.D. scholar at the [Department of Computer Science and Engineering](https://www.cse.iitm.ac.in/index.php), [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I am also associated to the [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbcdsai.iitm.ac.in/).
 
-%You can use the [editor on GitHub](https://github.com/tarunkumariitm/tarunkumariitm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Education
+1. Ph.D. - Indian Institute of Technology Madras (2016 - )
+2. M.Tech - Shiv Nadar University (2013-2015)
+3. B.Tech - Punjab Technical University (2009-2013)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
