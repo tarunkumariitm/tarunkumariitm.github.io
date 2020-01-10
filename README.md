@@ -18,6 +18,10 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 2. M.Tech - Shiv Nadar University (2013-2015)
 3. B.Tech - Punjab Technical University (2009-2013)
 
+### Awards
+1. CSIR Junior Research Fellowship (NET - all India rank - 94)
+2. SERB Junior Research Fellowship (JEST - all India rank - 56)
+
 ### Contact
 - Email: tkumar [at] cse [dot] iitm [dot] ac [dot] in
 - Robert Bosch Centre for Data Science and Artificial Intelligence, fifth floor, Block 2, Department of Biotechnology, IIT Madras, Chennai-600036, India
