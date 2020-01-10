@@ -4,7 +4,8 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 ### Publications
 1. Kumar, Tarun, Sankaran Vaidyanathan, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications, pp. 286-297. Springer, Cham, 2019. [link](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24)
-2. Kumar, Tarun, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science (2019): 1-10. [link](https://link.springer.com/article/10.1007/s41745-019-0103-y)
+2. Kumar, Tarun, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science: 99, 237–246 (2019) doi:10.1007/s41745-
+019-0103-y. [link](https://link.springer.com/article/10.1007/s41745-019-0103-y)
 
 
 ### News
