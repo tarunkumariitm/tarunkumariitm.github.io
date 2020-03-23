@@ -3,7 +3,7 @@ I am a Ph.D. scholar at the [Department of Computer Science and Engineering](htt
 My work involves modelling complex systems as hypergraphs and multiplex networks, and learning from such networks. Recently, I have worked on the problems of hypergraph clustering, hyperedge prediction and centrality for multilayer networks. 
 
 ### Publications
-1. Kumar, Tarun, Sankaran Vaidyanathan, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications, pp. 286-297. Springer, Cham, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24), [code](https://github.com/tarunkumariitm/IRMM)
+1. Kumar, Tarun*, Sankaran Vaidyanathan*, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications, pp. 286-297. Springer, Cham, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24), [code](https://github.com/tarunkumariitm/IRMM)
 2. Kumar, Tarun, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science: 99, 237–246 (2019) doi:10.1007/s41745-
 019-0103-y. [paper](https://link.springer.com/article/10.1007/s41745-019-0103-y)
 
