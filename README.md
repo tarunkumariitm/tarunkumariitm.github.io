@@ -10,7 +10,7 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 
 ### News
-- Presented my work on hypergraphs on May 20th at UT Dallas Outreach Event. [Presentation](https://us-lti.bbcollab.com/recording/e4a43f2dd83f4a159e224010424e7fdf).
+- Presented my work on hypergraphs on May 20th at UT Dallas Outreach Event. [Presentation link](https://us-lti.bbcollab.com/recording/e4a43f2dd83f4a159e224010424e7fdf).
 - Awarded travel grant for [CODS-COMAD, 2020](https://cods-comad.in/2020/index.html).
 - Awarded IITM alumni travel grant to attend [International Conference for Complex Networks, 2019](https://www.complexnetworks.org/).
 - Best presentation award for our work on Hypergraph clustering in [4th IBSE workshop, 2018](https://ibse-iitm.github.io/news/IBSE-workshop-04).
