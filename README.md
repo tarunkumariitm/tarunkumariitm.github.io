@@ -29,3 +29,8 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 ### Contact
 - Email: tkumar [at] cse [dot] iitm [dot] ac [dot] in
 - Robert Bosch Centre for Data Science and Artificial Intelligence, fifth floor, Block 2, Department of Biotechnology, IIT Madras, Chennai-600036, India
+
+### Other links
+- [Full CV](https://drive.google.com/file/d/1OXIcg9zddXn6E4gMXNd7yLPBRP76Plno/view?usp=sharing) (updated in July 2020)
+- [Google Scholar profile](https://scholar.google.co.in/citations?user=P3OJaZQAAAAJ&hl=en)
+
