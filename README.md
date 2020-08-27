@@ -4,13 +4,14 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 ### Publications
 1. Kumar, Tarun, Sankaran Vaidyanathan, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "Hypergraph Clustering by Iteratively Reweighted Modularity Maximization." Applied Network Science journal, 2020. 
-1. Kumar, Tarun<sup>&#9733;</sup>, Darwin Kamanuru<sup>&#9733;</sup>, Srinivasan Parthasarathy, and Balaraman Ravindran. "HPRA: Hyperedge Prediction using Resource Allocation." In 12th ACM Conference on Web Science, pp. 135-143. 2020. [WebSci 2020](https://websci20.webscience.org/), [paper](https://arxiv.org/abs/2006.11070), [code](https://github.com/tarunkumariitm/HyperedgePrediction)
-2. Kumar, Tarun<sup>&#9733;</sup>, Sankaran Vaidyanathan<sup>&#9733;</sup>, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications. [Complex Networks 2019](https://www.2019.complexnetworks.org/), pp. 286-297. Springer, Cham, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24), [code](https://github.com/tarunkumariitm/IRMM)
-3. Kumar, Tarun, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science: 99, 237–246 (2019) doi:10.1007/s41745-
+2. Kumar, Tarun<sup>&#9733;</sup>, Darwin Kamanuru<sup>&#9733;</sup>, Srinivasan Parthasarathy, and Balaraman Ravindran. "HPRA: Hyperedge Prediction using Resource Allocation." In 12th ACM Conference on Web Science, pp. 135-143. 2020. [WebSci 2020](https://websci20.webscience.org/), [paper](https://arxiv.org/abs/2006.11070), [code](https://github.com/tarunkumariitm/HyperedgePrediction)
+3. Kumar, Tarun<sup>&#9733;</sup>, Sankaran Vaidyanathan<sup>&#9733;</sup>, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications. [Complex Networks 2019](https://www.2019.complexnetworks.org/), pp. 286-297. Springer, Cham, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24), [code](https://github.com/tarunkumariitm/IRMM)
+4. Kumar, Tarun, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science: 99, 237–246 (2019) doi:10.1007/s41745-
 019-0103-y. [paper](https://link.springer.com/article/10.1007/s41745-019-0103-y)
 
 
 ### News
+- Excited to announce that I will be a co-organizer for the workshop titled "Learning and reasoning with complex graphs" with [AAAI-2021](https://aaai.org/Conferences/AAAI-21/). (details will be up shortly).
 - Presented my work on hypergraphs on May 20th at UT Dallas Outreach Event. [Presentation link](https://us-lti.bbcollab.com/recording/e4a43f2dd83f4a159e224010424e7fdf).
 - Awarded travel grant for [CODS-COMAD, 2020](https://cods-comad.in/2020/index.html).
 - Awarded IITM alumni travel grant to attend [International Conference for Complex Networks, 2019](https://www.complexnetworks.org/).
@@ -22,9 +23,10 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 2. M.Tech - Shiv Nadar University (2013-2015)
 3. B.Tech - Punjab Technical University (2009-2013)
 
-### Awards
-1. CSIR Junior Research Fellowship (NET - all India rank - 94)
-2. SERB Junior Research Fellowship (JEST - all India rank - 56)
+### Awards and Service
+1. Reviewer [Social Network Analysis and Mining journal](https://www.springer.com/journal/13278). 
+2. CSIR Junior Research Fellowship (NET - all India rank - 94)
+3. SERB Junior Research Fellowship (JEST - all India rank - 56)
 
 ### Contact
 - Email: tkumar [at] cse [dot] iitm [dot] ac [dot] in
