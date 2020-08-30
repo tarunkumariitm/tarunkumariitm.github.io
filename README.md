@@ -11,6 +11,7 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 
 ### News
+- Awarded Intel India PhD fellowship for year 2020-2021.
 - Excited to announce that I will be a co-organizer for the workshop titled "Learning and reasoning with complex graphs" with [AAAI-2021](https://aaai.org/Conferences/AAAI-21/). (details will be up shortly).
 - Presented my work on hypergraphs on May 20th at UT Dallas Outreach Event. [Presentation link](https://us-lti.bbcollab.com/recording/e4a43f2dd83f4a159e224010424e7fdf).
 - Awarded travel grant for [CODS-COMAD, 2020](https://cods-comad.in/2020/index.html).
