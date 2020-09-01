@@ -36,4 +36,5 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 ### Other links
 - [Full CV](https://drive.google.com/file/d/1OXIcg9zddXn6E4gMXNd7yLPBRP76Plno/view?usp=sharing) (updated in July 2020)
 - [Google Scholar profile](https://scholar.google.co.in/citations?user=P3OJaZQAAAAJ&hl=en)
+- [Twitter](https://twitter.com/tarunkumarsnu)
 
