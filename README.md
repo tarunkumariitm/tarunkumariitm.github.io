@@ -12,7 +12,7 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 ### News
 - Awarded Intel India PhD fellowship for year 2020-2021.
-- Excited to announce that I will be co-organizing the workshop titled [Graphs and more Complex Structures for Learning and Reasoning- GCLR 2021](https://sites.google.com/view/gclr2021/home) with [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
+- I will be co-organizing the workshop titled [Graphs and more Complex Structures for Learning and Reasoning- GCLR 2021](https://sites.google.com/view/gclr2021/home) at [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
 - Presented my work on hypergraphs on May 20th at UT Dallas Outreach Event. [Presentation link](https://us-lti.bbcollab.com/recording/e4a43f2dd83f4a159e224010424e7fdf).
 - Awarded travel grant for [CODS-COMAD, 2020](https://cods-comad.in/2020/index.html).
 - Awarded IITM alumni travel grant to attend [International Conference for Complex Networks, 2019](https://www.complexnetworks.org/).
