@@ -12,7 +12,7 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 ### News
 - Awarded Intel India PhD fellowship for year 2020-2021.
-- Excited to announce that I will be a co-organizer for the workshop titled "Learning and reasoning with complex graphs" with [AAAI-2021](https://aaai.org/Conferences/AAAI-21/). (details will be up shortly).
+- Excited to announce that I will be co-organizing the workshop titled [Graphs and more Complex Structures for Learning and Reasoning- GCLR 2021](https://sites.google.com/view/gclr2021/home) with [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
 - Presented my work on hypergraphs on May 20th at UT Dallas Outreach Event. [Presentation link](https://us-lti.bbcollab.com/recording/e4a43f2dd83f4a159e224010424e7fdf).
 - Awarded travel grant for [CODS-COMAD, 2020](https://cods-comad.in/2020/index.html).
 - Awarded IITM alumni travel grant to attend [International Conference for Complex Networks, 2019](https://www.complexnetworks.org/).
@@ -25,9 +25,12 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 3. B.Tech - Punjab Technical University (2009-2013)
 
 ### Awards and Service
-1. Reviewer [Social Network Analysis and Mining journal](https://www.springer.com/journal/13278). 
-2. CSIR Junior Research Fellowship (NET - all India rank - 94)
-3. SERB Junior Research Fellowship (JEST - all India rank - 56)
+1. Reviewer [Social Network Analysis and Mining journal](https://www.springer.com/journal/13278), SDM 2021.
+2. Mentor [AI for Public Health workshop](https://aiforpublichealth.github.io/) at ICLR 2021.
+3. Senior volunteer at [CODS-COMAD 2021](http://cods-comad.in/), Student volunteer at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+3. Intel PHD fellowship 2020 - 2021.
+4. CSIR Junior Research Fellowship (NET - all India rank - 94)
+5. SERB Junior Research Fellowship (JEST - all India rank - 56)
 
 ### Contact
 - Email: tkumar [at] cse [dot] iitm [dot] ac [dot] in
