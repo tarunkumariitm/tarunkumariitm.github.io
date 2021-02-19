@@ -3,11 +3,13 @@ I am a Ph.D. scholar at the [Department of Computer Science and Engineering](htt
 My work involves modelling complex systems as hypergraphs and multiplex networks, and learning from such networks. Recently, I have worked on the problems of hypergraph clustering, hyperedge prediction and centrality for multilayer networks. 
 
 ### Publications
-1. Kumar, Tarun, Sankaran Vaidyanathan, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "Hypergraph Clustering by Iteratively Reweighted Modularity Maximization." Applied Network Science journal, 2020. 
-2. Kumar, Tarun<sup>&#9733;</sup>, Darwin Kamanuru<sup>&#9733;</sup>, Srinivasan Parthasarathy, and Balaraman Ravindran. "HPRA: Hyperedge Prediction using Resource Allocation." In 12th ACM Conference on Web Science, pp. 135-143. 2020. [WebSci 2020](https://websci20.webscience.org/), [paper](https://arxiv.org/abs/2006.11070), [code](https://github.com/tarunkumariitm/HyperedgePrediction)
-3. Kumar, Tarun<sup>&#9733;</sup>, Sankaran Vaidyanathan<sup>&#9733;</sup>, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications. [Complex Networks 2019](https://www.2019.complexnetworks.org/), pp. 286-297. Springer, Cham, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24), [code](https://github.com/tarunkumariitm/IRMM)
-4. Kumar, Tarun, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science: 99, 237–246 (2019) doi:10.1007/s41745-
+1. Tarun Kumar, Sankaran Vaidyanathan, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "Hypergraph Clustering by Iteratively Reweighted Modularity Maximization." Applied Network Science journal, 2020. 
+2. Tarun Kuma<sup>&#9733;</sup>, Darwin Kamanuru<sup>&#9733;</sup>, Srinivasan Parthasarathy, and Balaraman Ravindran. "HPRA: Hyperedge Prediction using Resource Allocation." In 12th ACM Conference on Web Science, pp. 135-143. 2020. [WebSci 2020](https://websci20.webscience.org/), [paper](https://arxiv.org/abs/2006.11070), [code](https://github.com/tarunkumariitm/HyperedgePrediction)
+3. Tarun Kumar<sup>&#9733;</sup>, Sankaran Vaidyanathan<sup>&#9733;</sup>, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications. [Complex Networks 2019](https://www.2019.complexnetworks.org/), pp. 286-297. Springer, Cham, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24), [code](https://github.com/tarunkumariitm/IRMM)
+4. Tarun Kumar, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science: 99, 237–246 (2019) doi:10.1007/s41745-
 019-0103-y. [paper](https://link.springer.com/article/10.1007/s41745-019-0103-y)
+5. Aditya Jadhav, Tarun Kumar<sup>&#9733;</sup>, Mohit <sup>&#9733;</sup>Raghavendra<sup>&#9733;</sup>, Tamizhini Loganathan, and Manikandan
+Narayanan. “Predicting cross-tissue hormone-gene relations using balanced word embeddings.” [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.28.428707v1)
 
 
 ### News
@@ -26,18 +28,18 @@ My work involves modelling complex systems as hypergraphs and multiplex networks
 
 ### Awards and Service
 1. Reviewer [Social Network Analysis and Mining journal](https://www.springer.com/journal/13278), SDM 2021.
-2. Mentor [AI for Public Health workshop](https://aiforpublichealth.github.io/) at ICLR 2021.
+2. PC member and Mentor [AI for Public Health workshop](https://aiforpublichealth.github.io/mentorship/) at ICLR 2021.
 3. Senior volunteer at [CODS-COMAD 2021](http://cods-comad.in/), Student volunteer at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-3. Intel PHD fellowship 2020 - 2021.
-4. CSIR Junior Research Fellowship (NET - all India rank - 94)
-5. SERB Junior Research Fellowship (JEST - all India rank - 56)
+4. Intel PHD fellowship 2020 - 2021.
+5. CSIR Junior Research Fellowship (NET - all India rank - 94)
+6. SERB Junior Research Fellowship (JEST - all India rank - 56)
 
 ### Contact
 - Email: tkumar [at] cse [dot] iitm [dot] ac [dot] in
 - Robert Bosch Centre for Data Science and Artificial Intelligence, fifth floor, Block 2, Department of Biotechnology, IIT Madras, Chennai-600036, India
 
 ### Other links
-- [Full CV](https://drive.google.com/file/d/1OXIcg9zddXn6E4gMXNd7yLPBRP76Plno/view?usp=sharing) (updated in July 2020)
+- [Full CV](https://drive.google.com/file/d/1DnpfSF3dcXHXhuAB9R_hj5h0ZF5OOdCB/view?usp=sharing) (updated in Feb 2021)
 - [Google Scholar profile](https://scholar.google.co.in/citations?user=P3OJaZQAAAAJ&hl=en)
 - [Twitter](https://twitter.com/tarunkumarsnu)
 
