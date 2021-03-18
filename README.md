@@ -1,5 +1,5 @@
 ## Welcome
-I am a Ph.D. scholar at the [Department of Computer Science and Engineering](https://www.cse.iitm.ac.in/index.php), [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I am being advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/index.html) and [Prof. Manikandan Narayanan](https://maninarayanan.com/index.html). I am also associated to the [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbcdsai.iitm.ac.in/). My PhD is financially supported by an Intel project grant.
+I am a Ph.D. scholar, and a recepient of the Intel Ph.D. fellowship at the [Department of Computer Science and Engineering](https://www.cse.iitm.ac.in/index.php), [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I am being advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/index.html) and [Prof. Manikandan Narayanan](https://maninarayanan.com/index.html). I am also associated to the [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbcdsai.iitm.ac.in/).
 My work involves modelling complex systems as hypergraphs and multiplex networks, and learning from such networks. Recently, I have worked on the problems of hypergraph clustering, hyperedge prediction and centrality for multilayer networks. 
 
 ### Publications
