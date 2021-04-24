@@ -39,7 +39,7 @@ Narayanan. “Predicting cross-tissue hormone-gene relations using balanced word
 - Robert Bosch Centre for Data Science and Artificial Intelligence, fifth floor, Block 2, Department of Biotechnology, IIT Madras, Chennai-600036, India
 
 ### Other links
-- [Full CV](https://drive.google.com/file/d/1DnpfSF3dcXHXhuAB9R_hj5h0ZF5OOdCB/view?usp=sharing) (updated in Feb 2021)
+- [Full CV](https://drive.google.com/file/d/1jdjNcA9XDFuvsMl7wOkb8184xMJjAtjK/view?usp=sharing) (updated in April 2021)
 - [Google Scholar profile](https://scholar.google.co.in/citations?user=P3OJaZQAAAAJ&hl=en)
 - [Twitter](https://twitter.com/tarunkumarsnu)
 
