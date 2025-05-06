@@ -1,5 +1,39 @@
-theme: jekyll-theme-cayman
+# Site settings
 title: Tarun Kumar
+email: tkumar@cse.iitm.ac.in
 description: PhD Scholar at CSE Dept., IIT Madras
-github:
-  is_project_page: false
+baseurl: ""
+url: "https://tarunkumariitm.github.io"
+twitter_username: tarunkumarsnu
+github_username: tarunkumariitm
+scholar_userid: P3OJaZQAAAAJ
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:title/
+
+# Theme settings
+theme: al-folio
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Collections
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Navigation
+nav_order:
+  - about
+  - publications
+  - research
+  - cv
+  - news

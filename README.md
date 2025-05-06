@@ -1,45 +1,72 @@
 ## Welcome
-I am a Ph.D. scholar, and a recepient of the Intel Ph.D. fellowship at the [Department of Computer Science and Engineering](https://www.cse.iitm.ac.in/index.php), [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I am being advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/index.html) and [Prof. Manikandan Narayanan](https://maninarayanan.com/index.html). I am also associated to the [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbcdsai.iitm.ac.in/).
-My work involves modelling complex systems as hypergraphs and multiplex networks, and learning from such networks. Recently, I have worked on the problems of hypergraph clustering, hyperedge prediction and centrality for multilayer networks. 
+I am a Senior Research Scientist at Hewlett Packard Enterprise, working on data management and retrieval, data augmentation related problems in the context of LLMs, and solving challenges related to LLM discovery and evaluations at large scale.
 
-### Publications
-1. Tarun Kumar, Sankaran Vaidyanathan, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "Hypergraph Clustering by Iteratively Reweighted Modularity Maximization." Applied Network Science journal, 2020. 
-2. Tarun Kumar<sup>&#9733;</sup>, Darwin Kamanuru<sup>&#9733;</sup>, Srinivasan Parthasarathy, and Balaraman Ravindran. "HPRA: Hyperedge Prediction using Resource Allocation." In 12th ACM Conference on Web Science, pp. 135-143. 2020. [WebSci 2020](https://websci20.webscience.org/), [paper](https://arxiv.org/abs/2006.11070), [code](https://github.com/tarunkumariitm/HyperedgePrediction)
-3. Tarun Kumar<sup>&#9733;</sup>, Sankaran Vaidyanathan<sup>&#9733;</sup>, Harini Ananthapadmanabhan, Srinivasan Parthasarathy, and Balaraman Ravindran. "A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering." In International Conference on Complex Networks and Their Applications. [Complex Networks 2019](https://www.2019.complexnetworks.org/), pp. 286-297. Springer, Cham, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-36687-2_24), [code](https://github.com/tarunkumariitm/IRMM)
-4. Tarun Kumar, Manikandan Narayanan, and Balaraman Ravindran. "Effect of Inter-layer Coupling on Multilayer Network Centrality Measures." Journal of the Indian Institute of Science: 99, 237–246 (2019) doi:10.1007/s41745-
-019-0103-y. [paper](https://link.springer.com/article/10.1007/s41745-019-0103-y)
-5. Aditya Jadhav, Tarun Kumar<sup>&#9733;</sup>, Mohit <sup>&#9733;</sup>Raghavendra<sup>&#9733;</sup>, Tamizhini Loganathan, and Manikandan
-Narayanan. “Predicting cross-tissue hormone-gene relations using balanced word embeddings.” [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.28.428707v1)
+I completed my Ph.D. from the [Department of Computer Science and Engineering](https://www.cse.iitm.ac.in/index.php), [Indian Institute of Technology Madras](https://www.iitm.ac.in/) in 2022, advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/index.html) and [Prof. Manikandan Narayanan](https://maninarayanan.com/index.html). My thesis on "Algorithms For Rich Graph Structures" won the Best Ph.D. Thesis in Data Science award at IIT Madras.
 
+### Research Interests
+Data-Centric AI, Trustworthy AI, Machine Learning, Data Mining and Data Discovery, Network Science, Computational Biology.
 
-### News
-- Awarded Intel India PhD fellowship for year 2020-2021.
-- I will be co-organizing the workshop titled [Graphs and more Complex Structures for Learning and Reasoning- GCLR 2021](https://sites.google.com/view/gclr2021/home) at [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
-- Presented my work on hypergraphs on May 20th at UT Dallas Outreach Event. [Presentation link](https://us-lti.bbcollab.com/recording/e4a43f2dd83f4a159e224010424e7fdf).
-- Awarded travel grant for [CODS-COMAD, 2020](https://cods-comad.in/2020/index.html).
-- Awarded IITM alumni travel grant to attend [International Conference for Complex Networks, 2019](https://www.complexnetworks.org/).
-- Best presentation award for our work on Hypergraph clustering in [4th IBSE workshop, 2018](https://ibse-iitm.github.io/news/IBSE-workshop-04).
+### Professional Experience
+1. **Senior Research Scientist:** Hewlett Packard Enterprise (Jan 2025 - present)
+   - Solving data management and retrieval, data augmentation related problems in the context of LLMs
+   - Solving the challenges related to LLM discovery and evaluations at a large scale
+2. **Research Scientist:** Hewlett Packard Enterprise (Dec 2021 - Dec 2024)
+   - Worked on data discovery in the realm of Data-Centric and Trustworthy AI
+3. **Project Associate:** Robert Bosch Center for Data Science and AI (June 2018 - Dec 2021)
+   - Project: Network Representation Learning in collaboration with Intel
+   - Worked on a representation learning framework for multilayer attributed hypergraphs
 
+### Patents
+- **2025**
+  - (Filed) Adaptive Semantic Hierarchical Clustering with User-Guided Partial Hierarchies for Object Stores
+  - (Filed) A system to add hierarchical navigation in an object storage platform using concept graphs
+  - (Filed) System and Method for Co-optimizing the recommendations and evaluations of Foundation Models (FMs) using metadata characteristics and performance benchmarks
+- **2024**
+  - (Filed) Graph-based dataset valuation to solve AI problems
+  - (Filed) AI Pipeline Metadata Knowledge Graph Completion using Pretrained Large Language Models
+  - (Filed) Demystifying Black Box Time-Series Forecasting: Post Hoc Shape-based Perturbation Analysis for Explainability and Insights
+
+### Recent Publications (Selected)
+1. Revathy Venkaratamanan, Aalap Tripathy, Tarun Kumar, et al. "Constructing a Metadata Knowledge Graph as an atlas for demystifying AI Pipeline optimization." (Frontiers in Big Data Journal, 2025)
+2. Tarun Kumar, Cong Xu, Arpit Shah, Baradji Diallo, Martin Foltin, Suparna Bhattacharya "Co-optimizing Recommendation and Evaluation for LLM Selection" (ICLR 2025 Workshop)
+3. Ashish Mishra, Gyanaranjan Nayak, Suparna Bhattacharya, Tarun Kumar, et al. "LLM-Guided Counterfactual Data Generation for Fairer AI" (WWW 2024 & ICLR 2024)
+4. Naganand Yadati, Tarun Kumar, Deepak Maurya, Partha Talukdar, and Balaraman Ravindran. "HEAL: Embedding Multi-layer Hypergraphs." Learning on Graphs (LOG) 2023.
+5. Tarun Kumar, Ramanathan Sethuraman, Sanga Mitra, Balaraman Ravindran and Manikandan Narayanan. "MultiCens: Multilayer network centrality measures to uncover molecular mediators of tissue-tissue communication." (PLOS Computational Biology, 19(4), e1011022, 2023)
+
+### Awards and Achievements
+1. "Innovator of the year" award by HPE, 2024
+2. Best Ph.D. thesis award in Data Science at IIT Madras, 2023
+3. Intel India PhD fellowship for year 2020-2021
+4. SIAM Travel Award for SDM 2021
+5. Awarded fellowships to attend multiple conferences: AAMAS 2021, AAAI 2021, CODS-COMAD 2021, AISTATS 2021, ICWSM 2021, ICML 2021
+
+### Recent Talks
+- LLM recommendation and Evaluation for Scientific use cases (CUG 2024, Australia)
+- LLM-Guided Counterfactual Data Generation for Fairer AI (DCAI 2024, Singapore)
+- "Holistic Evaluation and Recommendation of LLMs" HPE TechCon 2024
+- "MultiCens: Multilayer network centrality measures to uncover molecular mediators of tissue-tissue communication," IMSc Network Biology Day, 2023
+- "Surprising Data Scientists by Data Discovery." HPE TechCon, 2023
 
 ### Education
-1. Ph.D. - Indian Institute of Technology Madras (2016 - )
+1. Ph.D. - Indian Institute of Technology Madras (2016 - 2022)
+   - CGPA: 8.5/10
+   - Best Ph.D. Thesis in Data Science
+   - Thesis: Algorithms For Rich Graph Structures
 2. M.Tech - Shiv Nadar University (2013-2015)
+   - CGPA: 9.07/10
 3. B.Tech - Punjab Technical University (2009-2013)
+   - Percentage: 85.3/100
 
-### Awards and Service
-1. Reviewer [Social Network Analysis and Mining journal](https://www.springer.com/journal/13278), SDM 2021.
-2. PC member and Mentor [AI for Public Health workshop](https://aiforpublichealth.github.io/mentorship/) at ICLR 2021.
-3. Senior volunteer at [CODS-COMAD 2021](http://cods-comad.in/), Student volunteer at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-4. Intel PHD fellowship 2020 - 2021.
-5. CSIR Junior Research Fellowship (NET - all India rank - 94)
-6. SERB Junior Research Fellowship (JEST - all India rank - 56)
+### Professional Services
+- Member (2024 - ): University Relations co-ordinator at India R&D Innovation Stream at HPE
+- Co-Editor: (Special Issue) Focus on Learning and Reasoning in Generalized Graphs, Journal of Physics: Complexity, 2023 -
+- Co-organizer for Graphs and more Complex structures for Learning and Reasoning (GCLR) workshop series at AAAI 2021-2024
+- Program Committee member for major conferences: NeurIPS, ICML, ICLR, AAAI, KDD, NetSci, RECOMB
+- Journal reviewer for multiple journals including Nature Scientific Reports, PLOS ONE, IEEE Transactions on Network Science and Engineering
 
 ### Contact
-- Email: tkumar [at] cse [dot] iitm [dot] ac [dot] in
-- Robert Bosch Centre for Data Science and Artificial Intelligence, fifth floor, Block 2, Department of Biotechnology, IIT Madras, Chennai-600036, India
-
-### Other links
-- [Full CV](https://drive.google.com/file/d/1jdjNcA9XDFuvsMl7wOkb8184xMJjAtjK/view?usp=sharing) (updated in April 2021)
+- Email: kumartaruncse@gmail.com
+- Phone: +91 9080696732
 - [Google Scholar profile](https://scholar.google.co.in/citations?user=P3OJaZQAAAAJ&hl=en)
 - [Twitter](https://twitter.com/tarunkumarsnu)
-
+- [Full CV](https://drive.google.com/file/d/1jdjNcA9XDFuvsMl7wOkb8184xMJjAtjK/view?usp=sharing) (updated May 2025)
