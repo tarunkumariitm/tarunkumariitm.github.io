@@ -16,16 +16,6 @@ Data-Centric AI, Trustworthy AI, Machine Learning, Data Mining and Data Discover
    - Project: Network Representation Learning in collaboration with Intel
    - Worked on a representation learning framework for multilayer attributed hypergraphs
 
-### Patents
-- **2025**
-  - (Filed) Adaptive Semantic Hierarchical Clustering with User-Guided Partial Hierarchies for Object Stores
-  - (Filed) A system to add hierarchical navigation in an object storage platform using concept graphs
-  - (Filed) System and Method for Co-optimizing the recommendations and evaluations of Foundation Models (FMs) using metadata characteristics and performance benchmarks
-- **2024**
-  - (Filed) Graph-based dataset valuation to solve AI problems
-  - (Filed) AI Pipeline Metadata Knowledge Graph Completion using Pretrained Large Language Models
-  - (Filed) Demystifying Black Box Time-Series Forecasting: Post Hoc Shape-based Perturbation Analysis for Explainability and Insights
-
 ### Recent Publications (Selected)
 1. Revathy Venkaratamanan, Aalap Tripathy, Tarun Kumar, et al. "Constructing a Metadata Knowledge Graph as an atlas for demystifying AI Pipeline optimization." (Frontiers in Big Data Journal, 2025)
 2. Tarun Kumar, Cong Xu, Arpit Shah, Baradji Diallo, Martin Foltin, Suparna Bhattacharya "Co-optimizing Recommendation and Evaluation for LLM Selection" (ICLR 2025 Workshop)
